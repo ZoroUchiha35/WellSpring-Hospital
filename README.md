@@ -1,4 +1,4 @@
-# Afya-Bora-Hospital
+# WellSpring Hospital
 
 ## SQL CODE
 
