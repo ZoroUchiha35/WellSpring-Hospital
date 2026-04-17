@@ -34,7 +34,6 @@ WellSpring Hospital Management System is a comprehensive web-based healthcare ma
 - **Database**: MySQL
 - **Server**: Apache (XAMPP/WAMP/LAMP recommended)
 
-## 📁 Project Structure
 
 
 
