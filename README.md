@@ -1,7 +1,5 @@
 # WellSpring Hospital Management System
 
-![WellSpring Hospital](WellSpring-Hospital/images/about.png)
-
 ## 📋 Overview
 
 WellSpring Hospital Management System is a comprehensive web-based healthcare management solution designed to streamline hospital operations, patient management, and service delivery. The system provides an intuitive interface for managing departments, services, patient registrations, and career opportunities.
