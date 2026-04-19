@@ -1,6 +1,6 @@
 # WellSpring Hospital Management System
 
-![WellSpring Hospital](images/logo.png)
+![WellSpring Hospital](WellSpring-Hospital/images/about.png)
 
 ## 📋 Overview
 
