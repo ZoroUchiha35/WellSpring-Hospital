@@ -1,6 +1,4 @@
-# 🏥 WellSpring Hospital Management System
-
-![WellSpring Hospital](images/logo.png)
+# WellSpring Hospital Management System
 
 <div align="center">
 
