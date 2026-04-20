@@ -51,8 +51,8 @@ CREATE TABLE IF NOT EXISTS patients ( <br>
     registration_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP <br>
 );
 
-- Insert sample data for patients table <br><br>
-INSERT INTO patients (first_name, last_name, id_number, gender, diagnosis, drug) <br><br> VALUES
+- Insert sample data for patients table <br>
+INSERT INTO patients (first_name, last_name, id_number, gender, diagnosis, drug) <br> VALUES
 ('John', 'Mwangi', '12345678', 'male', 'Malaria', 'Artemether-Lumefantrine'), <br>
 ('Mary', 'Wanjiku', '87654321', 'female', 'Hypertension', 'Lisinopril'), <br>
 ('Peter', 'Odhiambo', '23456789', 'male', 'Diabetes Type 2', 'Metformin'), <br>
@@ -86,6 +86,6 @@ INSERT INTO malaria_registration (first_name, second_name, phone_number, gender,
 ('Timothy', 'Mwololo', '0756789012', 'male', 35, 'malaria2024'), <br>
 ('Agnes', 'Kavindu', '0767890123', 'female', 29, 'participant1'), <br>
 ('Samuel', 'Mutua', '0778901234', 'male', 47, 'study2025'), <br>
-('Rose', 'Akoth', '0789012345', 'female', 23, 'volunteer99'),
-('Patrick', 'Njoroge', '0790123456', 'male', 52, 'research567'),
+('Rose', 'Akoth', '0789012345', 'female', 23, 'volunteer99'), <br>
+('Patrick', 'Njoroge', '0790123456', 'male', 52, 'research567'), <br>
 ('Catherine', 'Adhiambo', '0701234567', 'female', 31, 'password789');
