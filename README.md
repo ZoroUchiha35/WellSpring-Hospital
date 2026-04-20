@@ -78,7 +78,7 @@ CREATE TABLE IF NOT EXISTS malaria_registration ( <br>
 );
 
 - Insert sample data for malaria_registration table <br>
-INSERT INTO malaria_registration (first_name, second_name, phone_number, gender, age, password) <br><br> VALUES
+INSERT INTO malaria_registration (first_name, second_name, phone_number, gender, age, password) <br> VALUES
 ('Brian', 'Otieno', '0712345678', 'male', 28, 'password123'), <br>
 ('Lucy', 'Wanjiru', '0723456789', 'female', 32, 'secure456'), <br>
 ('Kelvin', 'Kiprono', '0734567890', 'male', 25, 'mypass789'), <br>
